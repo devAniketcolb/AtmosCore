@@ -27,4 +27,6 @@ function App() {
   )
 }
 
+{/*Admin Email Address: admin@weatherapp.com*/}
+
 export default App
