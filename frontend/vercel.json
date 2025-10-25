@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://atmos-core.vercel.app/api/:path*"
+    },
+    {
+      "source": "/login",
+      "destination": "https://atmos-core.vercel.app/login"
+    }
+  ]
+}
